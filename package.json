@@ -1,0 +1,22 @@
+{
+  "name": "ethernaut-solutions-johnnytime",
+  "version": "1.0.0",
+  "description": "Ethernaut CTF Challenge Solutions by JohnnyTime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-johnnytime:RealJohnnyTime/ethernaut-solutions-johnnytime.git"
+  },
+  "keywords": [
+    "Ethernaut",
+    "CTF",
+    "Challenge",
+    "Solution",
+    "JohnnyTime"
+  ],
+  "author": "JohnnyTime",
+  "license": "ISC"
+}
